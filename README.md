@@ -67,7 +67,6 @@ V oblasti potraviny lze snížit spotřebu masa a mléčných výrobků, lze nah
 Podíváme-li se na bydlení, nejjednodušší způsob jak podstatně snížit vaši uhlíkovou stopu, je přechod k obnovitelným zdrojům elektřiny (zjistěte si jaký poskytovatel ve vašem regionu nabízí zelený tarif a můžete k němu přejít), jistě lze doma nepřetápět či snížit spotřebu teplé vody např. kratší dobou sprchování. 
 Ve spotřebě obecně je dobré vždy přemýšlet, zda potřebuji kupovat další nové věci, jestli je skutečně potřebuji a není-li možnost sehnat je např. z druhé ruky. Na mnohé možnosti jistě přijdete sami. Zvolte si takové, které jsou smysluplné, které máte šanci splnit, zároveň však, ať je to pro vás výzva!
 
-
 ### Další tipy (v angličtině) na určování velikosti uhlíkové stopy našich činností:
 Lepší přehled, kolik emisí CO2 s sebou můžou nést některé činnosti, si můžete udělat v anglickém článku michiganské univerzity. Je poměrně podrobný, ale pro představu vám budou stačit použité grafy. Může to být částečně vodítkem k tomu, na co je efektivní se při snahách o snižování emisí CO2 zaměřovat.
 Podívat se můžete také na to, jakou uhlíkovou stopu mají některé potraviny.
@@ -91,21 +90,19 @@ Jak se vám dařilo svůj závazek plnit? Bylo to pro vás snadné nebo obtížn
 Nezapomeňte přiložit také vyplněnou tabulku s výpočty.
 Napište, jaké způsoby rozšíření informací mezi spolužáky a další jste se rozhodli využít? Napište nám a přiložte fotky. Proč jste zvolili zrovna tyto?
 
-
 ## Úkol 3 – Vánoční dárek 
-Vánoce jsou za dveřmi. Obchodníci nás lákají ke koupi lákavých dárků. My nezůstáváme pozadu. Stejně jako oni, i my vám chceme nabídnout ten nejlepší, nejkrásnější, nejoriginálnější dárek pro vaše blízké. Jakou máme nabídku?
+Vánoce jsou za dveřmi. Obchodníci nás lákají ke koupi lákavých dárků. My nezůstáváme pozadu. Stejně jako oni, i my vám chceme nabídnout ten nejlepší, nejkrásnější, nejoriginálnější dárek pro vaše blízké. Jakou máme nabídku?\
 Vymyslete a dejte svým blízkým dárek, který má co nejnižší uhlíkovou stopu!  - a ta může být menší než kladná - klidně i nulová či záporná! ;)
 O jaký konkrétní dárek by se mělo jednat? To je na vás! Nabízíme vám pár tipů, avšak věříme, že na ty “nejlepší” dárky přijdete sami. 
-Tak třeba… se může jednat o dárek, na jehož výrobu bylo použito minimální množství fosilní energie, dárek vlastnoručně vyrobený, dárek získaný výměnou; dárek může být i nehmotný - váš čas, služba, společný zážitek, výlet i činnost, která může být i ku prospěchu v “boji” s klimatickou změnou.
-Pamatujte, že dárek by měl dělat radost.
+Tak třeba… se může jednat o dárek, na jehož výrobu bylo použito minimální množství fosilní energie, dárek vlastnoručně vyrobený, dárek získaný výměnou; dárek může být i nehmotný - váš čas, služba, společný zážitek, výlet i činnost, která může být i ku prospěchu v “boji” s klimatickou změnou.\
+Pamatujte, že dárek by měl dělat radost.\
 Inspirujte se mezi sebou, inspirujte spolužáky! Dejte nápady na váš komunikační kanál - ať již před Vánocemi či po nich.
-Nepodařilo se vám vymyslet a darovat dárek podle vašich představ? Nevadí, vyberte si každý z vás jakýkoliv z dárků (ať už jste jej dostali či dali) a zamyslete se, jaké množství emisí skleníkových plynů bylo vytvořeno. Která část jejich stopy byla nejvyšší? Výroba, doprava, provoz? Bylo by možno snížit jejich emisní zátěž? 
+Nepodařilo se vám vymyslet a darovat dárek podle vašich představ? Nevadí, vyberte si každý z vás jakýkoliv z dárků (ať už jste jej dostali či dali) a zamyslete se, jaké množství emisí skleníkových plynů bylo vytvořeno. Která část jejich stopy byla nejvyšší? Výroba, doprava, provoz? Bylo by možno snížit jejich emisní zátěž?\
 Vyberte v týmu dárek, který vás nejvíce zaujal, který je nejvíce přátelský ke klimatu. 
 
 #### Otázky v Závěrečné zprávě pro Úkol 3:
 Jaké klimatu přátelské dárky jste darovali/dostali? Jak těžké pro vás bylo vymyslet dárek? Jaké byly reakce obdarovaných? Napište nám a přiložte fotky.
 Proč jste zvolili zrovna tyto?
-
 
 ## Nepovinné úkoly
 Zaujalo vás téma? Chtěli byste pracovat ještě více? S chutí do toho!
@@ -120,17 +117,11 @@ Máte svůj jiný nápad na činnost, kterou obohatíte toto téma? Udělejte ji
 #### Otázky v Závěrečné zprávě pro Nepovinné úkoly:
 Napište nám, pokud jste při své misi zrealizovali jakékoliv další nápady! Svoji činnost zdokumentujte.
 
-
 Postup, jak úkoly odevzdávat a návrh postupu jejich plnění naleznete na webu CO2 ligy  na nástěnce v odkazu „Jak CO2 liga funguje“ (v pravém sloupci).
 
 Přejeme vám hodně radosti při plnění úkolů. V případě jakýchkoliv nejasností nás hned kontaktujte, pomůžeme vám.
 
 Tým organizátorů soutěže (Petra, Yvonna, Kája, Barča, Ajs...)
-
-     
-
-
-
 
 Ročník 2021/2022 soutěže je spolufinancován Státním fondem životního prostředí České republiky na základě rozhodnutí ministra životního prostředí. www.sfzp.cz, www.mzp.cz
 
