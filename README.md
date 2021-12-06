@@ -11,7 +11,7 @@ Příčiny změny klimatu na stránkách Evropské komise,
 Czech Glo￼be - Ústavu výzkumu globální změny Akademie věd ČR
 nebo na již zmiňované stránky Fakta o klimatu.
 
-###A co na to teplota?
+### A co na to teplota?
 Podívejte se na graf, který znázorňuje, jak se v průběhu let zvyšovalo množství CO2 v atmosféře a spolu s tím stoupala teplota:
 Zdroj: https://medialibrary.climatecentral.org/resources/co2-and-the-climate-curve
 Červeně je vyznačena teplotní odchylka oproti období 1880-1910, braná jako „klouzavý průměr“ přes 12 měsíců. Bílá je pak koncentrace oxidu uhličitého v milióntinách (ppm = partes per million, znamená jedna miliontina z celku, podobně jako procento je jedna setina z celku nebo promile jedna tisícina - například 400 ppm CO2 = 0,04% CO2 v atmosféře). 
@@ -21,7 +21,7 @@ Rozsáhlá Carbon dioxide pumphandle - 2021 od NOAA - Národního úřadu pro oc
 Komiksová rolovací osa znázorňující zvyšování teploty na Zemi
 Graf a animace zvyšování teploty od NASA 
 
-###Pařížská dohoda
+### Pařížská dohoda
 Na základě mezinárodních smluv (především Rámcové úmluvy OSN o změnách klimatu, na jejímž základě byla v prosinci 2015 uzavřena tzv. Pařížská dohoda) se státy světa zavázaly, že se vynasnaží, aby průměrná celosvětová teplota stoupla rozhodně méně než o 2°C oproti hodnotám před průmyslovou revolucí. A pokud možno aby stoupla nanejvýš o 1,5°C. Ovšem i takové zvýšení přinese plno negativních dopadů spojených např. se zvyšováním hladiny moře, která zaplaví mnohá i hustě osídlená území a zaniknou i celé ostrovy.
 Od doby, kdy se zástupci států setkali v Paříži a stanovili si rámcové cíle, se setkávají každým rokem na “Konferenci stran Rámcové úmluvy OSN o změně klimatu (UNFCCC)”. Letos se uskutečnila 26. a to ve skotském městě Glasgow. Na těchto setkáních jsou posuzovány národní zprávy o snižování emisí a dalších klimatických opatřeních. Vedle jednání vlád, která jsou základem programu COP, probíhá celá řada nejrůznějších akcí jako jsou semináře, představení nových publikací, výstavy, panelové diskuse apod. Občanská společnost během COPu pořádá řadu akcí včetně demonstrací ve prospěch dodržování omezení spotřeby obecnění již existujících závazků i na podporu nových, kterých je tolik potřeba. 
 
