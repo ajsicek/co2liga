@@ -1,4 +1,4 @@
-# Mise 2.: Zameť si na svém dvorečku
+# Mise 2: Zameť si na svém dvorečku
 ****
 
 ### Seznamte se, prosím: CO2 a CH4
